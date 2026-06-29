@@ -1,0 +1,19 @@
+From: "PayPal" <service@paypal.com>
+To: username@example.com
+Subject: Verify Your PayPal© Account
+Date: Wed, 16 Nov 2005 04:12:21 -0500
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+X-Spam-Flag: YES
+X-Spam-Status: Yes, score=14.2 required=5.0
+
+<html>
+<body>
+<p>Dear PayPal Member,</p>
+<p>Your PayPal account has been temporarily restricted due to unauthorized login attempts from an unrecognized IP address. To restore full functionality to your account, you are required to confirm your identity immediately.</p>
+<p>Failure to verify your account within 48 hours will lead to permanent suspension.</p>
+<p><a href="http://www.paypal.com.member-profile9652.info/index.php">https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</a></p>
+<p>Sincerely,<br>PayPal Security Department</p>
+</body>
+</html>
