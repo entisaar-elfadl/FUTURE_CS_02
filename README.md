@@ -6,8 +6,6 @@ This repository contains my submission for **Task 2** of the **Future Interns Cy
 
 The objective of this task was to analyse real phishing email samples obtained from a public research dataset, identify phishing indicators, investigate embedded URLs, and document the findings in a professional security report.
 
----
-
 ## Project Objectives
 
 The investigation focused on:
@@ -20,7 +18,6 @@ The investigation focused on:
 - Investigating URLs using VirusTotal and urlscan.io
 - Producing a cybersecurity analysis report with recommendations
 
----
 ## Tools Used
 
 - Linux (Ubuntu/WSL)
@@ -30,8 +27,6 @@ The investigation focused on:
 - urlscan.io
 - Google Admin Toolbox
 - SpamAssassin
-
----
 
 ## Repository Structure
 
@@ -58,7 +53,6 @@ FUTURE_CS_02
 ├── Task 2 Report.pdf
 └── README.md
 ```
----
 
 ## Investigation Methodology
 
@@ -72,7 +66,6 @@ For each phishing email sample, I completed the following steps:
 6. Investigated each URL using VirusTotal and urlscan.io.
 7. Documented the findings and classified each email.
 
----
 ## Skills Demonstrated
 
 - Email Header Analysis
@@ -83,8 +76,6 @@ For each phishing email sample, I completed the following steps:
 - Threat Intelligence
 - Technical Documentation
 - Cybersecurity Reporting
-
----
 
 ## Key Findings
 
@@ -97,8 +88,6 @@ Three phishing email samples were analysed, each impersonating a different trust
 Although each campaign used different social engineering techniques, they all attempted to persuade recipients to interact with malicious links by creating urgency and exploiting trust.
 
 A notable finding was that none of the embedded URLs were detected as malicious by VirusTotal during the investigation. This reinforces the importance of combining automated security tools with manual analysis when investigating phishing emails.
-
----
 
 **Author**
 
