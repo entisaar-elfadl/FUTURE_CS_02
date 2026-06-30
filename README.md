@@ -25,7 +25,7 @@ The investigation focused on:
 - Bash Commands (`cat`, `grep`)
 - VirusTotal
 - urlscan.io
-- Google Admin Toolbox
+- Microsoft Word
 - SpamAssassin
 
 ## Repository Structure
